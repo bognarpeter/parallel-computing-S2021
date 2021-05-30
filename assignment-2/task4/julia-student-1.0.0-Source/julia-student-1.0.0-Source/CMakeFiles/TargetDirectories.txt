@@ -1,0 +1,6 @@
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/edit_cache.dir
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/package_source.dir
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/rebuild_cache.dir
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/package.dir
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/filter_runner.dir
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/CMakeFiles/juliap_runner.dir

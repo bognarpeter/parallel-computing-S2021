@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/juliap.c
+stdio.h
+-
+omp.h
+-
+juliap.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/juliap.h
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/juliap.h
+complex.h
+-
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/juliap_runner.c
+ctype.h
+-
+libgen.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+omp.h
+-
+juliap.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/juliap.h
+

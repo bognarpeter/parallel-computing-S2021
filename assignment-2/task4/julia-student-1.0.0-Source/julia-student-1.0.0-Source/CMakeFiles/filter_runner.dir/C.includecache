@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/filter.c
+math.h
+-
+filter.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/filter.h
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/filter.h
+png_utils.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/png_utils.h
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/filter_runner.c
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+omp.h
+-
+string.h
+-
+unistd.h
+-
+png_utils.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/png_utils.h
+filter.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/filter.h
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/png_utils.c
+stdlib.h
+-
+png_utils.h
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/png_utils.h
+
+/home/pbognar/Code/parallel-computing-S2021/assignment-2/task4/julia-student-1.0.0-Source/julia-student-1.0.0-Source/src/png_utils.h
+png.h
+-
+
